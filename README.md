@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Preranabaruah
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning HTML/CSS & JavaScript, JAVA
+- 🌱 I’m currently learning HTML/CSS & JavaScript, ReactJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
